@@ -1,0 +1,4 @@
+# Ignore Node Modules
+
+/contact/node_modules
+/person/node_modules
